@@ -31,4 +31,4 @@ node_modules
 
 
 # Project Specific
-chromedriver.exe
+selenium.jar
